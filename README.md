@@ -1,5 +1,4 @@
-# Meiware
-Hack for Garry's mod<br/><br/>
+# Garry's Mod Multi Hack
 features: optimized code, anti screengrab, aimbot (silent), hitbox multipoint, triggerbot (can be standalone or with aimbot), autoreload, wallhack with chams, ESP, crosshair, freecam, autohop, autostrafe (silent), and menu<br/><br/>
 how to use:<br/>
 download meiware.lua to your /garrysmod/lua/ folder<br/>
